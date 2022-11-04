@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/animee/static/css/main.23d8afae.css",
+    "main.js": "/animee/static/js/main.e81a0ec5.js",
+    "index.html": "/animee/index.html",
+    "main.23d8afae.css.map": "/animee/static/css/main.23d8afae.css.map",
+    "main.e81a0ec5.js.map": "/animee/static/js/main.e81a0ec5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23d8afae.css",
+    "static/js/main.e81a0ec5.js"
+  ]
+}
